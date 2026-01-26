@@ -1,6 +1,6 @@
 # Y2K Aesthetic
+![Y2K technology aesthetic](../images/y2k.jpg)
 
-![Y2K aesthetic example](https://upload.wikimedia.org/wikipedia/commons/0/0b/Y2K_fashion_example.jpg)
 
 ## Overview
 The Y2K aesthetic is inspired by early 2000s fashion, pop culture, and technology trends. 

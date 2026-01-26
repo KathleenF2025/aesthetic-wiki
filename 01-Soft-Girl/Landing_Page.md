@@ -1,6 +1,7 @@
 # Soft Girl Aesthetic
+![Soft Girl aesthetic](../images/soft-girl.jpg)
 
-![Soft Girl aesthetic example](https://upload.wikimedia.org/wikipedia/commons/7/7e/Pastel_aesthetic_example.jpg)
+
 
 ## Overview
 The Soft Girl aesthetic is a popular style often associated with pastel colors, gentle fashion, and a cute, cozy vibe. 
